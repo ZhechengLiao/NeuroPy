@@ -2,9 +2,16 @@
 
 Main TODO:
 - [ ] Understand how BrainPy Work
+  - [ ] Read the document
+  - [ ] Read the source code
 - [ ] Know something about Computational NeuroScience
+  - [ ] https://neuronaldynamics.epfl.ch/index.html
+  - [ ] https://compneuro.neuromatch.io/tutorials/intro.html
 - [ ] Main Feature of NeuroPy
     - building, simulation, training, analysis
+    - 1. simulation & building
+    - 2. training
+    - 3. analysis
 
 ## Main Features 
 ## Building
